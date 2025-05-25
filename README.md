@@ -6,6 +6,7 @@ The objective of this project is to detect fraudulent transactions in credit car
 # Tools Used
 - Data Source: [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/whenamancodes/fraud-detection)
 - Data Analysis & Visualization: pandas, numpy, matplotlib, seaborn
+
 Machine Learning Models:
 - XGBoost (with class balancing via scale_pos_weight)
 - Deep Learning model using TensorFlow Keras (Sequential API, Dense and Dropout layers)
